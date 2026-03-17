@@ -2,7 +2,7 @@
 
 ## 1) Mục tiêu ban đầu
 
-Bạn yêu cầu xây một web app phục vụ giáo viên dạy Vật Lý, có các chức năng chính:
+ Yêu cầu xây dựng web app phục vụ giáo viên dạy Vật Lý và các bạn học sinh , có các chức năng chính:
 - Upload và download tài liệu theo danh mục có sẵn.
 - Danh mục chính: `Cơ`, `Điện`, `Nhiệt`, `Quang`.
 - Riêng `Cơ` có các phần: `Động học`, `Động lực học`, `Năng lượng`, `Bầu trời`, `Cơ học chất lưu`.
