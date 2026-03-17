@@ -11,6 +11,8 @@
 - Public web app, giao diện thân thiện.
 - Chốt MVP dùng `SQLite` và lưu file trên local server.
 - Hỗ trợ học tập và ôn thi cho học sinh.
+- Có thêm xem bài của nhau và đánh giá để chỉnh sửa tài liệu tỉ lệ đúng cao nhất có thể.
+
 
 ## 2) Kế hoạch đã thống nhất
 
